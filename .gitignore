@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+rent-my-ride.git/config
+rent-my-ride/.gitignore
+rent-my-ride.git/description
+rent-my-ride.git/HEAD
+rent-my-ride.git/hooks/
+
+rent-my-ride.git/info/exclude
